@@ -4,6 +4,7 @@
   "policy": { "default": "deny" },
   "keys": [
     { "value": "KEY-DqgA3TpynlCXHXGHVRjmp9Yvk5KMSPdblhKcDTFPexY7FhEF", "expires_at": "2099-12-31T23:59:59Z" },
+    { "value": "KEY-SMgH8xdEvWa9wkd11FeXzkDdMzXxnJr4NLEd9qnQdq7C6iDm", "expires_at": "2099-12-31T23:59:59Z" },
     { "value": "KEY-SeG1sRQ1BIFWlyoX7WquAlpeM5bbNfDzH0YrjERfN74eptsa" }
   ]
 }
